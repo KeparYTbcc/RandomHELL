@@ -1,3 +1,5 @@
+@echo off
+
 :check_Permissions
   echo Administrative permissions required. Detecting permissions...
 
